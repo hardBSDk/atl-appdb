@@ -4,7 +4,7 @@ An unofficial app compatibility report for the [Android Translation Layer](https
 
 ### What is ATL?
 
-ATL is an compatiblity layer to run Android apps on Linux that convert the Android APIs to Linux APIs and can convert the ARM code of apps to x86 to make them work on Intel/AMD CPUs if necessary, as it just does CPU emulation for apps it's faster than [Waydroid](https://waydro.id/) and other Android emulators.
+ATL is an compatiblity layer created in 2021 to run Android apps on Linux which translates the Android APIs to Linux APIs, it uses less CPU, RAM memory, storage space, input latency, has faster startup time, and better desktop integration (native file picker, native notifications, using OpenGL and VA-API drivers from the host system) than [Waydroid](https://waydro.id/) and other Android emulators.
 
 ### Why you created this catalog?
 
